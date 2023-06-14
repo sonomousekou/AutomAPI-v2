@@ -1,0 +1,14 @@
+<!-- templates/app_name/create.html -->
+{% extends 'base.html' %}
+
+{% block content %}
+    <h1>Create Item</h1>
+    <form method="post" action="{% url 'app_name_create' %}">
+        {% csrf_token %}
+        <!-- Add form fields for each model field -->
+        <label for="field_name">Field Name:</label>
+        <input type="text" name="field_name" required>
+        
+        <button type="submit">Create</button>
+    </form>
+{% endblock %}

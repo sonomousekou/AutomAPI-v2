@@ -1,0 +1,14 @@
+{% comment %} {% extends 'base.html' %} {% endcomment %}
+
+{% block content %}
+  <h1>Home</h1>
+
+    {% comment %} <a href="{% url 'create_database' %}"> Crete database </a> {% endcomment %}
+  
+  
+  {% if user.is_authenticated %}
+    <p>Welcome, {{ user.username }}</p>
+  {% else %}
+    <p>Welcome, anonymous user</p>
+  {% endif %}
+{% endblock %}

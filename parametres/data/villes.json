@@ -1,0 +1,30 @@
+[
+    {
+        "code": "001",
+        "nom": "Kankan",
+        "description": "Kankan",
+        "region": "01",
+        "pays": "GN"
+      },
+      {
+        "code": "004",
+        "nom": "Conakry",
+        "description": "Capitale de la Guinée",
+        "region": "01",
+        "pays": "GN"
+    },
+    {
+        "code": "002",
+        "nom": "Coyah",
+        "description": "Ville située à 50km de Conakry",
+        "region": "01",
+        "pays": "GN"
+    },
+    {
+        "code": "003",
+        "nom": "Dubréka",
+        "description": "Ville située à 35km de Conakry",
+        "region": "01",
+        "pays": "GN"
+    }
+]

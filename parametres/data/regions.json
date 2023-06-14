@@ -1,0 +1,26 @@
+[
+  {
+    "code": "01",
+    "nom": "Region 1",
+    "description": "Description de la région 1",
+    "pays": "GN"
+  },
+  {
+    "code": "02",
+    "nom": "Region 2",
+    "description": "Description de la région 2",
+    "pays": "GN"
+  },
+  {
+    "code": "03",
+    "nom": "Region 3",
+    "description": "Description de la région 3",
+    "pays": "GN"
+  },
+  {
+    "code": "04",
+    "nom": "Region 4",
+    "description": "Description de la région 4",
+    "pays": "GN"
+  }
+]

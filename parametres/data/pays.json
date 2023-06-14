@@ -1,0 +1,483 @@
+[
+  {
+    "nom": "Afghanistan",
+    "code": "AF",
+    "indicatif": "93",
+    "langues": [
+      {
+        "nom": "Pashto",
+        "code": "ps",
+        "description": "Langue nationale"
+      },
+      {
+        "nom": "Dari",
+        "code": "fa-AF",
+        "description": "Langue officielle"
+      },
+      {
+        "nom": "Ouzbek",
+        "code": "uz-AF",
+        "description": "Langue minoritaire"
+      },
+      {
+        "nom": "Turkmène",
+        "code": "tk",
+        "description": "Langue minoritaire"
+      }
+    ]
+  },
+  {
+    "nom": "Albanie",
+    "code": "AL",
+    "indicatif": "355",
+    "langues": [
+      {
+        "nom": "Albanais",
+        "code": "sq",
+        "description": "Langue officielle de l'Albanie"
+      },
+      {
+        "nom": "Grec",
+        "code": "el",
+        "description": "Langue minoritaire"
+      },
+      {
+        "nom": "Macédonien",
+        "code": "mk",
+        "description": "Langue minoritaire"
+      },
+      {
+        "nom": "Serbe",
+        "code": "sr",
+        "description": "Langue minoritaire"
+      }
+    ]
+  },
+  {
+    "nom": "Afrique du Sud",
+    "code": "ZA",
+    "indicatif": "27",
+    "langues": [
+      {
+        "nom": "Afrikaans",
+        "code": "af",
+        "description": "Langue nationale"
+      },
+      {
+        "nom": "Anglais",
+        "code": "en-za",
+        "description": "Langue officielle"
+      },
+      {
+        "nom": "isiNdebele",
+        "code": "nr",
+        "description": "Langue nationale"
+      },
+      {
+        "nom": "isiXhosa",
+        "code": "xh",
+        "description": "Langue nationale"
+      },
+      {
+        "nom": "isiZulu",
+        "code": "zu",
+        "description": "Langue nationale"
+      },
+      {
+        "nom": "Sesotho sa Leboa",
+        "code": "nso",
+        "description": "Langue nationale"
+      },
+      {
+        "nom": "Sesotho",
+        "code": "st",
+        "description": "Langue nationale"
+      },
+      {
+        "nom": "Setswana",
+        "code": "tn",
+        "description": "Langue nationale"
+      },
+      {
+        "nom": "siSwati",
+        "code": "ss",
+        "description": "Langue nationale"
+      },
+      {
+        "nom": "Tshivenda",
+        "code": "ve",
+        "description": "Langue nationale"
+      },
+      {
+        "nom": "Xitsonga",
+        "code": "ts",
+        "description": "Langue nationale"
+      }
+    ]
+  },
+  {
+    "nom": "Algérie",
+    "code": "DZ",
+    "indicatif": "213",
+    "langues": [
+      {
+        "nom": "Arabe",
+        "code": "ar",
+        "description": "Langue officielle de l'Algérie"
+      },
+      {
+        "nom": "Tamazight",
+        "code": "tzm",
+        "description": "Langue nationale"
+      },
+      {
+        "nom": "Français",
+        "code": "fr",
+        "description": "Langue minoritaire"
+      }
+    ]
+  },
+  {
+    "nom": "Allemagne",
+    "code": "DE",
+    "indicatif": "49",
+    "langues": [
+      {
+        "nom": "Allemand",
+        "code": "de",
+        "description": "Langue officielle de l'Allemagne"
+      },
+      {
+        "nom": "Danois",
+        "code": "da",
+        "description": "Langue minoritaire"
+      },
+      {
+        "nom": "Sorabe",
+        "code": "hsb",
+        "description": "Langue minoritaire"
+      },
+      {
+        "nom": "Turc",
+        "code": "tr",
+        "description": "Langue minoritaire"
+      }
+    ]
+  },
+  {
+    "nom": "Andorre",
+    "code": "AD",
+    "indicatif": "376",
+    "langues": [
+      {
+        "nom": "Catalan",
+        "code": "ca",
+        "description": "Langue officielle de l'Andorre"
+      }
+    ]
+  },
+
+  {
+    "nom": "Angola",
+    "code": "AO",
+    "indicatif": "244",
+    "langues": [
+      {
+        "nom": "Portugais",
+        "code": "pt",
+        "description": "Langue officielle de l'Angola"
+      }
+    ]
+  },
+  {
+    "nom": "Bénin",
+    "code": "BJ",
+    "indicatif": "229",
+    "langues": [
+      {
+        "nom": "Français",
+        "code": "fr",
+        "description": "Langue officielle du Bénin"
+      },
+      {
+        "nom": "Yoruba",
+        "code": "yo",
+        "description": "Langue nationale"
+      }
+    ]
+  },
+  {
+    "nom": "Cameroun",
+    "code": "CM",
+    "indicatif": "237",
+    "langues": [
+      {
+        "nom": "Français",
+        "code": "fr",
+        "description": "Langue officielle du Cameroun"
+      },
+      {
+        "nom": "Anglais",
+        "code": "en",
+        "description": "Langue officielle du Cameroun"
+      }
+    ]
+  },
+  {
+    "nom": "Côte d'Ivoire",
+    "code": "CI",
+    "indicatif": "225",
+    "langues": [
+      {
+        "nom": "Français",
+        "code": "fr",
+        "description": "Langue officielle de la Côte d'Ivoire"
+      },
+      {
+        "nom": "Baoulé",
+        "code": "bci",
+        "description": "Langue nationale"
+      }
+    ]
+  },
+  {
+    "nom": "Gabon",
+    "code": "GA",
+    "indicatif": "241",
+    "langues": [
+      {
+        "nom": "Français",
+        "code": "fr",
+        "description": "Langue officielle du Gabon"
+      }
+    ]
+  },
+  {
+    "nom": "Guinée",
+    "code": "GN",
+    "indicatif": "224",
+    "langues": [
+      {
+        "nom": "Français",
+        "code": "fr",
+        "description": "Langue officielle de la Guinée"
+      }
+    ]
+  },
+
+  {
+    "nom": "Mali",
+    "code": "ML",
+    "indicatif": "223",
+    "langues": [
+      {
+        "nom": "Français",
+        "code": "fr",
+        "description": "Langue officielle du Mali"
+      },
+      {
+        "nom": "Bambara",
+        "code": "bm",
+        "description": "Langue nationale"
+      }
+    ]
+  },
+  {
+    "nom": "Niger",
+    "code": "NE",
+    "indicatif": "227",
+    "langues": [
+      {
+        "nom": "Français",
+        "code": "fr",
+        "description": "Langue officielle du Niger"
+      }
+    ]
+  },
+
+  {
+    "nom": "Seychelles",
+    "code": "SC",
+    "indicatif": "248",
+    "langues": [
+      {
+        "nom": "Anglais",
+        "code": "en",
+        "description": "Langue officielle des Seychelles"
+      },
+      {
+        "nom": "Français",
+        "code": "fr",
+        "description": "Langue officielle des Seychelles"
+      },
+      {
+        "nom": "Créole seychellois",
+        "code": "crs",
+        "description": "Langue nationale des Seychelles"
+      }
+    ]
+  },
+  {
+    "nom": "Soudan",
+    "code": "SD",
+    "indicatif": "249",
+    "langues": [
+      {
+        "nom": "Arabe",
+        "code": "ar",
+        "description": "Langue officielle du Soudan"
+      },
+      {
+        "nom": "Anglais",
+        "code": "en",
+        "description": "Langue officielle du Soudan"
+      }
+    ]
+  },
+  {
+    "nom": "Suisse",
+    "code": "CH",
+    "indicatif": "41",
+    "langues": [
+      {
+        "nom": "Allemand",
+        "code": "de",
+        "description": "Langue nationale de la Suisse"
+      },
+      {
+        "nom": "Français",
+        "code": "fr",
+        "description": "Langue nationale de la Suisse"
+      },
+      {
+        "nom": "Italien",
+        "code": "it",
+        "description": "Langue nationale de la Suisse"
+      },
+      {
+        "nom": "Romanche",
+        "code": "rm",
+        "description": "Langue nationale de la Suisse"
+      }
+    ]
+  },
+  {
+    "nom": "Tanzanie",
+    "code": "TZ",
+    "indicatif": "255",
+    "langues": [
+      {
+        "nom": "Swahili",
+        "code": "sw",
+        "description": "Langue officielle de la Tanzanie"
+      },
+      {
+        "nom": "Anglais",
+        "code": "en",
+        "description": "Langue de l'éducation et des affaires"
+      }
+    ]
+  },
+  {
+    "nom": "Togo",
+    "code": "TG",
+    "indicatif": "228",
+    "langues": [
+      {
+        "nom": "Français",
+        "code": "fr",
+        "description": "Langue officielle du Togo"
+      },
+      {
+        "nom": "Éwé",
+        "code": "ee",
+        "description": "Langue nationale"
+      },
+      {
+        "nom": "Kabyè",
+        "code": "kbp",
+        "description": "Langue nationale"
+      }
+    ]
+  },
+  {
+    "nom": "Tunisie",
+    "code": "TN",
+    "indicatif": "216",
+    "langues": [
+      {
+        "nom": "Arabe tunisien",
+        "code": "ar",
+        "description": "Langue nationale"
+      },
+      {
+        "nom": "Français",
+        "code": "fr",
+        "description": "Langue de l'éducation et des affaires"
+      }
+    ]
+  },
+  {
+    "nom": "Turquie",
+    "code": "TR",
+    "indicatif": "90",
+    "langues": [
+      {
+        "nom": "Turc",
+        "code": "tr",
+        "description": "Langue officielle de la Turquie"
+      }
+    ]
+  },
+  {
+    "nom": "Tchad",
+    "code": "TD",
+    "indicatif": "235",
+    "langues": [
+      {
+        "nom": "Français",
+        "code": "fr",
+        "description": "Langue officielle du Tchad"
+      },
+      {
+        "nom": "Arabe",
+        "code": "ar",
+        "description": "Langue nationale du Tchad"
+      }
+    ]
+  },
+  {
+    "nom": "Zambie",
+    "code": "ZM",
+    "indicatif": "260",
+    "langues": [
+      {
+        "nom": "Anglais",
+        "code": "en",
+        "description": "Langue officielle de la Zambie"
+      }
+    ]
+  },
+  {
+    "nom": "Zimbabwe",
+    "code": "ZW",
+    "indicatif": "263",
+    "langues": [
+      {
+        "nom": "Shona",
+        "code": "sn",
+        "description": "Langue nationale"
+      },
+      {
+        "nom": "Ndebele",
+        "code": "nd",
+        "description": "Langue nationale"
+      },
+      {
+        "nom": "Anglais",
+        "code": "en",
+        "description": "Langue officielle"
+      }
+    ]
+  }
+]

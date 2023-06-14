@@ -1,0 +1,9 @@
+parametres
+python manage.py load_langues
+python manage.py load_pays
+python manage.py load_regions
+python manage.py load_villes
+
+a coriger
+python manage.py pays_langues
+
